@@ -10,3 +10,5 @@
 
 - Start with a Video [Python Programming](https://www.youtube.com/watch?v=N4mEzFDjqtA) 
 - Go through the video at your own pace and make sure you type out all the code mentioned in the video and the accompanying [cheatsheet](http://www.newthinktank.com/2014/11/python-programming/) in your python REPL
+
+Testing
